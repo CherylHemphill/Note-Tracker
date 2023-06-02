@@ -17,8 +17,9 @@ Within the terminal run the command <b> npm i -s </b>. This will install necessa
 
 ## Usage
 
-![alt 
-text](public/assets/screenshot.png)
+<!-- ![alt 
+text](public/assets/screenshot.png) -->
+![Screenshot 2023-06-01 215001](https://github.com/CherylHemphill/Note-Tracker/assets/126039394/58e9bebb-0288-4afb-bce3-f4b131c2c1f7)
 
 ## License
 
