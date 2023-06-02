@@ -13,10 +13,12 @@ I wanted to be able to create a note tracker to help keep tasks orgainzed. This 
 * [Contributing](#contributing)
 
 ## Installation
-Within the terminal run the command <b> npm i -s </b>. This will install necessary dependencies. <br> Next you can rung the command <b> node server.js </b> to see the port you will be using. <br> You may also access the note tracker by going to    in your browser for a quicker access point to notes.
+Within the terminal run the command <b> npm i -s </b>. This will install necessary dependencies. <br> Next you can rung the command <b> node server.js </b> to see the port you will be using. <br> You may also access the note tracker by going to   https://quick-note.herokuapp.com/ in your browser for a quicker access point to notes.
 
 ## Usage
 
+![alt 
+text](assets/screenshot.png)
 
 ## License
 
